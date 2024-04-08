@@ -1,4 +1,4 @@
-## Python with Django 
+# Python with Django 
 
 # Installation
 To run this application, have the following Python libraries installed:
