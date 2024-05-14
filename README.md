@@ -75,6 +75,19 @@ Login data
 # Administrative Staff module (PPAA) 
 ![image](https://github.com/PabloJp304/Python-Django/assets/78864967/237bda88-7885-462d-b694-7904067140f2)
 
+# Code
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/0b354616-5f88-4cc6-85b0-4d4b0bd6e77d)
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/51946ec3-18d1-4930-8ab4-12a58ce3579f)
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/df5acb0b-893e-4816-a240-d5c857559c7d)
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/6f68f28a-17ec-4eec-b154-e8e3c53de114)
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/e2bae19d-3465-4233-af03-39a0588fc738)
+
+
+
+
+
+
+
 
 
 
