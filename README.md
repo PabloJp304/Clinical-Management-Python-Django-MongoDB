@@ -63,3 +63,21 @@ Login data
 - Information Support (SSII):
    - Username: laura_escanes
    - Password: y248(yNi7&61
+
+# Login
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/3b4cdbc9-de66-485d-903c-4b69cfdc4381)
+# Doctor module
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/b42889c1-930a-4697-903e-a2227e3bf834)
+# Nurse module
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/9b67e22f-c7ad-4430-8f98-18335b9616f5)
+# Human Resources module (RRHH)
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/33d8e98e-8421-4323-ad0d-36d494236643)
+# Administrative Staff module (PPAA) 
+![image](https://github.com/PabloJp304/Python-Django/assets/78864967/237bda88-7885-462d-b694-7904067140f2)
+
+
+
+
+
+
+
